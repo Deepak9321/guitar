@@ -1,3 +1,3 @@
 # guitar
 made by deepak Chaurasiya 
-you can play music 
+let's play music 
